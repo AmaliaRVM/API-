@@ -1,0 +1,27 @@
+ * {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.container {
+    width: 1000px;
+    height: auto;
+    display: block;
+    margin: auto;
+    background: rgb(229, 229, 231);
+}
+
+.promo {
+    background-color: blue;
+}
+
+
+img {
+    margin-left: 20px;
+} 
+div {
+    background-color: blue;
+}
+.firstName {
+    background-color:  red;
+}
