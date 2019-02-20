@@ -37,7 +37,7 @@ window.onload = () => {
                 image.src = data[i].image
 
                 var link = document.createElement('a')
-                link.textContent = 'link'
+                link.textContent = 'Go Deeper'
                 link.className = 'link'
                 link.href = data[i].wiki
 
